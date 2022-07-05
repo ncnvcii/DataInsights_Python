@@ -1,5 +1,5 @@
 # DataInsights_Python
-by ncnvcii
+by Victoria Porter (ncnvcii)
 
 Some personal exploration into data analysis and visualisation using Python 3.9
 
